@@ -1,4 +1,4 @@
-# CivilAdvocacy
+# Civil Advocacy
 
 This app displays an interactive list of political officials that represent the current location (or a specified location) at each level of government. It utilizes the 
 Google Civic Information API in order to acquire the government official data via REST service and JSON results. 
